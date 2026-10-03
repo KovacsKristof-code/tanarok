@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "nev": "Aldiss",
+    "oraSzam": 6,
+    "hetNapja": "szerda"
+  },
+  {
+    "id": 2,
+    "nev": "Durrett",
+    "oraSzam": 5,
+    "hetNapja": "vasarnap"
+  },
+  {
+    "id": 3,
+    "nev": "Haddow",
+    "oraSzam": 6,
+    "hetNapja": "kedd"
+  },
+  {
+    "id": 4,
+    "nev": "Halward",
+    "oraSzam": 5,
+    "hetNapja": "pentek"
+  },
+  {
+    "id": 5,
+    "nev": "Penkman",
+    "oraSzam": 3,
+    "hetNapja": "pentek"
+  },
+  {
+    "id": 6,
+    "nev": "Reasce",
+    "oraSzam": 6,
+    "hetNapja": "csutortok"
+  },
+  {
+    "id": 7,
+    "nev": "McCardle",
+    "oraSzam": 5,
+    "hetNapja": "kedd"
+  },
+  {
+    "id": 8,
+    "nev": "Bergeon",
+    "oraSzam": 5,
+    "hetNapja": "szombat"
+  },
+  {
+    "id": 9,
+    "nev": "Benjefield",
+    "oraSzam": 1,
+    "hetNapja": "hetfo"
+  },
+  {
+    "id": 12,
+    "nev": "Kovács",
+    "oraSzam": 5,
+    "hetNapja": "kedd"
+  },
+  {
+    "id": 13,
+    "nev": "asd",
+    "oraSzam": 7,
+    "hetNapja": [
+      "kedd"
+    ]
+  },
+  {
+    "id": 14,
+    "nev": "Kovács",
+    "oraSzam": 5,
+    "hetNapja": [
+      "szerda"
+    ]
+  },
+  {
+    "id": 16,
+    "nev": "Jancsó",
+    "oraSzam": 3,
+    "hetNapja": "Szombat"
+  }
+]
